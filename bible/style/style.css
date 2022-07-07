@@ -1,0 +1,12 @@
+.small {
+    font-size: 1.2em;
+}
+
+body {
+    font-size: 1.2em;
+}
+
+td.toc {
+    font-size: 1.5em;
+    padding: .7em;
+}

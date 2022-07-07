@@ -1,0 +1,9 @@
+BD[":7)Z"]="A Psalm of David"
+BD["X.-)o37"]="<b>3.</b>&nbsp; Between slaves and masters"
+BD["`)6\x97"]="<b>without</b><br> &emsp; Just as the Lord would not do anything without our consent."
+BD["a)-\x97"]="<b>this</b><br> &emsp; This day refers to the day of resurrection (<a href=Act.htm#v13_33>Acts 13:33</a>). This chapter gives us an account of Christ from eternity past to eternity future. He was the very God in eternity past (<a href=Heb.htm#v1_8>v. 8</a>); He was the Creator of the earth and the heavens (vv. <a href=Heb.htm#v1_10>10</a>, <a href=Heb.htm#v1_2>2</a>); He is the Upholder of all things and the One who bears all things (<a href=Heb.htm#v1_3>v. 3</a>); He is the Heir of all things (<a href=Heb.htm#v1_2>v. 2</a>); He was incarnated to accomplish redemption by being crucified (<a href=Heb.htm#v1_3>v. 3</a>); He was begotten as the Son of God in resurrection for the imparting of life to the many sons of God (<a href=Heb.htm#v1_5>v. 5</a>); He is the firstborn Son of God who will come again (<a href=Heb.htm#v1_6>v. 6</a>); He will be the King on the throne with the scepter in the kingdom (vv. <a href=Heb.htm#v1_8>8</a>-<a href=Heb.htm#v1_9>9</a>); and He will remain forever and ever in eternity future (vv. <a href=Heb.htm#v1_11>11</a>-<a href=Heb.htm#v1_12>12</a>)."
+BD[")2=)o18"]="<b>12.</b>&nbsp; The eleventh conflict: The ninth plague&mdash;darkness"
+BD["226)o38"]="<b>h.</b>&nbsp; Enriched with tribute and tariff from the nations, and building a defense"
+BD[":\x9f*\x97"]="<b>testimonies</b><br> &emsp; Christ is the reality of the law as the testimony of God. The testimony of God signifies Christ, the embodiment of God (<a href=Col.htm#v2_9>Col. 2:9</a>), as the living portrait of what God is. See <a href=ExoN.htm#n20_1x1>note 1<sup>1</sup></a> in <a href=Exo.htm#v20>Exo. 20</a>."
+BD[":\x9e-\x97"]="<b>Jehovah</b><br> &emsp; Heb. Jah; a shortened form of Jehovah. So frequently throughout this psalm."
+resume_js()

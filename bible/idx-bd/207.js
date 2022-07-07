@@ -1,0 +1,13 @@
+BD["b)*\x97"]="<b>trials</b><br> &emsp; See <a href=JamN.htm#n1_12x1>note 12<sup>1</sup></a>."
+BD["b))\x9a"]="<b>dispersion</b><br> &emsp; See <a href=1PeN.htm#n1_1x4>note 1<sup>4</sup></a> in <a href=1Pe.htm#v1>1&nbsp;Pet. 1</a>. This dispersion must have included the scattering of the Jewish believers from Jerusalem caused by the persecution after Pentecost (<a href=Act.htm#v8_1>Acts 8:1</a>, <a href=Act.htm#v8_4>4</a>)."
+BD["i4/)o49"]="<b>e.</b>&nbsp; War in heaven"
+BD["a,*\x97"]="<b>not</b><br> &emsp; Only the Codex Sinaiticus can be rendered in this way. All other ancient MSS read, they [referring to those who heard the word] not being mixed together by faith with those who heard [referring to Caleb and Joshua]."
+BD[":\xa0-\x97"]="<b>Meshech</b><br> &emsp; Meshech was a place far to the north in Assyria, and Kedar was a place to the south in Arabia (<a href=Isa.htm#v21_13>Isa. 21:13</a>, <a href=Isa.htm#v21_16>16</a>; <a href=Ezk.htm#v27_21>Ezek. 27:21</a>). Both may refer to the places in which the psalmist was captured in the Assyrian invasion (<a href=2Ki.htm#v18_11>2&nbsp;Kings 18:11</a>; <a href=2Ch.htm#v32_1>2&nbsp;Chron. 32:1</a>)."
+BD[":9)Z"]="A Prayer of David"
+BD["a+-\x97"]="<b>servant</b><br> &emsp; Servant here is a designation that implies dignity and freedom."
+BD["4/F)o17"]="<b>13.</b>&nbsp; The genealogy of Asher"
+BD["`)<\x97"]="<b>profit</b><br> &emsp; Gk. onaimen, similar in sound to Onesimus (both words meaning profitable). Here, this word is an allusion to the name Onesimus. This is a play on words, implying that since &ldquo;you owe me even your own self, you are an Onesimus to me&mdash;hence, you should be profitable to me, i.e., should let me have profit from you in the Lord.&rdquo;"
+BD["1=7)o31"]="<b>b.</b>&nbsp; David's conquest over the Philistines"
+BD["i6))o56"]="<b>3.</b>&nbsp; Three reapings"
+BD["i)1)o3"]="<b>B.</b>&nbsp; The Son of Man&mdash;the living Christ"
+resume_js()

@@ -1,0 +1,12 @@
+BD[">T*\x97"]="<b>Jeshurun</b><br> &emsp; From the Hebrew root meaning upright."
+BD["i>:\x8c"]="I testify to everyone who hears the words of the prophecy of this scroll: If anyone adds to them, God will add to him the plagues which are written in this scroll;"
+BD["AK*\x97"]="<b>Mount</b><br> &emsp; I.e., Edom (<a href=Ezk.htm#v35_15>v. 15</a>). That the judgment on Edom is repeated here (cf. <a href=Ezk.htm#v25_12>25:12</a>-<a href=Ezk.htm#v25_14>14</a>) indicates that in the process of God&rsquo;s recovery by life, there is still the need of God&rsquo;s judgment, particularly on Edom, who typifies the old man (see <a href=EzkN.htm#n25_12x1>note 12<sup>1</sup></a> in <a href=Ezk.htm#v25>ch. 25</a>). Because the old man is very difficult to deal with, the judgment on the old man must be repeated again and again, until the day of the redemption of our body (<a href=Eph.htm#v4_30>Eph. 4:30</a>). In order to recover us and make us the new man, God must judge our old man, our old creation (<a href=Rom.htm#v6_6>Rom. 6:6</a>; <a href=Eph.htm#v4_22>Eph. 4:22</a>-<a href=Eph.htm#v4_24>24</a>; <a href=Col.htm#v3_9>Col. 3:9</a>-<a href=Col.htm#v3_11>11</a>)."
+BD["i==\x8c"]="And the twelve gates were twelve pearls; each one of the gates was, respectively, of one pearl. And the street of the city was pure gold, like transparent glass."
+BD["i>6\x98"]="<b>wash</b><br> &emsp; The robes here symbolize the conduct of the believers. To wash their robes is to keep their conduct clean through the washing of the blood of the Lamb (<a href=Rev.htm#v7_14>7:14</a>; <a href=1Jo.htm#v1_7>1&nbsp;John 1:7</a>). This gives them the right to participate in the tree of life and to enter into the city. Both the tree of life and the city will be an enjoyment to them in eternity."
+BD[":\x9f\xbe\x8c"]="Those who persecute me with evil intent draw near; / They are far from Your law."
+BD["?HE\x97"]="<b>the</b><br> &emsp; Lit., they."
+BD["i=9\x98"]="<b>angel</b><br> &emsp; See <a href=RevN.htm#n21_17x2>note 17<sup>2</sup></a>."
+BD["Y*9)o9"]="<b>D.</b>&nbsp; A drink offering upon the sacrifice of faith"
+BD["?GH\x97"]="<b>covenant</b><br> &emsp; See <a href=JerN.htm#n11_3x1>note 3<sup>1</sup></a> in <a href=Jer.htm#v11>ch. 11</a>."
+BD["L)-\x97"]="<b>Consider</b><br> &emsp; The self-serving and God-neglecting returned captives were taking care of their houses but not Jehovah&rsquo;s house; hence, He came in to ask them concerning His house."
+resume_js()

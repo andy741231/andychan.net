@@ -1,0 +1,8 @@
+BD[":V(\x8d"]="<b>alamoth</b><br> &emsp; Perhaps referring to soprano voices."
+BD["H..)o7"]="<b>B.</b>&nbsp; Aspiring after Israel's genuine worship and sincere service"
+BD["R.g)o54"]="<b>(e)</b>&nbsp; Becoming the life-giving Spirit"
+BD["i41\x97"]="<b>cast</b><br> &emsp; Satan, the enemy of God, was judged by the Lord Jesus on the cross (<a href=Joh.htm#v12_31>John 12:31</a>; <a href=Joh.htm#v16_11>16:11</a>). After that, the overcoming believers are needed for the carrying out of that judgment, for the executing of that sentence. The war waged by the overcoming believers against Satan is actually the executing of the Lord&rsquo;s judgment upon him. Eventually, through their fighting, he is cast out of heaven. See <a href=RevN.htm#n9_1x1>note 1<sup>1</sup></a> in <a href=Rev.htm#v9>ch. 9</a>."
+BD["i+))o10"]="<b>E.</b>&nbsp; The church in Sardis&mdash;the church in reformation"
+BD["i6+\x97"]="<b>no</b><br> &emsp; No one can learn the new song sung by these first overcomers, a song that must be in accord with their experiences of the Lamb, because no one else has their specific and particular experiences of Christ."
+BD["i34\x97"]="<b>went</b><br> &emsp; Indicating that they are raptured. Their being killed, resurrected, and raptured are a part of their testimony and must all be within the one thousand two hundred and sixty days of their ministry. Thus, their rapture must take place on the last day of their ministry, which is also the last day of the great tribulation. It will be on the same day as the rapture predicted in <a href=1Th.htm#v4_17>1&nbsp;Thes. 4:17</a>, and it may even be at the same time, or it may be later."
+resume_js()

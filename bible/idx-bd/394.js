@@ -1,0 +1,11 @@
+BD["i<7\x97"]="<b>anyone</b><br> &emsp; The perishing unbelievers will be judged according to the scrolls, which are a record of their works (vv. <a href=Rev.htm#v20_12>12</a>-<a href=Rev.htm#v20_13>13</a>), but they will be cast into the lake of fire according to the book of life. This indicates that they are condemned by the Lord because of their evil deeds but perish because of their unbelief, which issues in their not having their names written in the book of life. Not believing in the Lord Jesus is the unique sin that causes people to perish (<a href=Joh.htm#v16_9>John 16:9</a>)."
+BD[":\x9f\xc9["]="? (Shin)"
+BD["i;:\x97"]="<b>generals</b><br> &emsp; Lit., captains over one thousand men."
+BD[">5))o17"]="<b>A.</b>&nbsp; The judgment of Jehovah&mdash;to destroy Babylon because of its cruel destruction of many nations"
+BD["i:=\x97"]="<b>thrown</b><br> &emsp; This will probably occur through the earthquake mentioned in <a href=Rev.htm#v16_18>16:18</a>-<a href=Rev.htm#v16_20>20</a>."
+BD[":`(\x8d"]="<b>dove</b><br> &emsp; Perhaps a reference to a melody common at the time."
+BD["7-6)o11"]="<b>3.</b>&nbsp; Nehemiah's good example"
+BD["i=4\x97"]="<b>great</b><br> &emsp; The wall is for separation and protection. New Jerusalem will be absolutely separated unto God and will fully protect the interests of God. Its wall will be great and high. Today all believers need such a great and high wall for their separation and protection."
+BD["i=3\x9a"]="<b>jasper</b><br> &emsp; God&rsquo;s appearance is like jasper (<a href=Rev.htm#v4_3>4:3</a> and <a href=RevN.htm#n4_3x1>note 1</a>). The light of the New Jerusalem is like jasper stone. The New Jerusalem bears the appearance of God and expresses God by her shining."
+BD["AP,)o54"]="<b>C.</b>&nbsp; The vision of the holy temple"
+resume_js()

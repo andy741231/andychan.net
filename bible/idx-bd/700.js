@@ -1,0 +1,13 @@
+BD["i<6)o112"]="<b>d.</b>&nbsp; Death and Hades being cast into the lake of fire"
+BD["_)8\x97"]="<b>profess</b><br> &emsp; Or, confess."
+BD["]->\x97"]="<b>Lay</b><br> &emsp; See <a href=1TiN.htm#n4_14x4>note 14<sup>4</sup></a> in <a href=1Ti.htm#v4>ch. 4</a>. According to the context of the previous verses, the laying on of hands here refers primarily to the laying of hands on the elders."
+BD["`)/\x97"]="<b>For</b><br> &emsp; For introduces the reason that the apostle prayed for Philemon&rsquo;s faith to become effective in the saints (<a href=Phm.htm#v6>v. 6</a>), the reason being that Philemon&rsquo;s love had refreshed the inward parts of the saints and, hence, had rendered the apostle much joy and encouragement."
+BD["`).\x9a"]="<b>for</b><br> &emsp; Lit., unto, toward. All the spiritual and divinely good things in us are unto Christ, toward Christ, for Christ. The apostle prayed that the fellowship, the communication, the sharing of Philemon&rsquo;s faith toward all the saints might become effective in them in the element and sphere of the full knowledge, the full realization, of all the good things in us for Christ, causing them to acknowledge, appreciate, and recognize all the spiritual and divinely good things that are in the believers for Christ."
+BD["-=))o49"]="<b>H.</b>&nbsp; The cities with their pasture lands allotted to the Levites"
+BD["_+2\x97"]="<b>factious</b><br> &emsp; A heretical, sectarian man who causes divisions by forming parties in the church according to his own opinions (see <a href=2PeN.htm#n2_1x3>note 1<sup>3</sup></a> in <a href=2Pe.htm#v2>2&nbsp;Pet. 2</a>). The Gnostic Judaism referred to in the preceding verse must be related to this."
+BD["^*>\x97"]="<b>lusts</b><br> &emsp; Timothy had to be wary not only of outward corruption among the churches but also of inward lusts within himself. He had to avoid the outward corruption and flee the inward lusts."
+BD["_+1\x9a"]="<b>strifes</b><br> &emsp; Issuing out of the questionings and genealogies."
+BD["].;\x97"]="<b>future</b><br> &emsp; The future here refers to the next age (as compared with the present age in <a href=1Ti.htm#v6_17>v. 17</a>), the kingdom age, when the overcoming saints will enjoy the Lord&rsquo;s reward. For this we all need to lay a good foundation in the present age as a treasure for us to enjoy in the future."
+BD["_*5\x97"]="<b>Awaiting</b><br> &emsp; Awaiting expectantly what is accepted by faith."
+BD["_*4\x9a"]="<b>righteously</b><br> &emsp; I.e., justly."
+resume_js()

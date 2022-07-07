@@ -1,0 +1,11 @@
+BD[":)))o0"]="Book One"
+BD["T21)o42"]="<b>d.</b>&nbsp; Christ, believed in and called upon"
+BD["i<*\x97"]="<b>bound</b><br> &emsp; After the defeat of Antichrist, Satan is bound and imprisoned that the rebellious earth may be cleared up and the kingdom of Christ may come (vv. <a href=Rev.htm#v20_4>4</a>-<a href=Rev.htm#v20_6>6</a>)."
+BD["i6<\x97"]="<b>city</b><br> &emsp; The city here is the city of Jerusalem."
+BD["S::)o111"]="<b>h.</b>&nbsp; To Ephesus"
+BD["i;-\x97"]="<b>voice</b><br> &emsp; This may be the voice of Christ as the Angel of God (<a href=Rev.htm#v7_2>7:2</a>; <a href=Rev.htm#v8_3>8:3</a>; <a href=Rev.htm#v10_1>10:1</a>)."
+BD["B)+)o2"]="<b>A.</b>&nbsp; Over the demonic diet"
+BD["i:0\x97"]="<b>burned</b><br> &emsp; In <a href=Rev.htm#v17_16>17:16</a> the religious Babylon is utterly burned. Here, the material Babylon is utterly burned. <a href=Rev.htm#v17>Chapter 17</a> records the destruction of the religious Babylon; <a href=Rev.htm#v18>ch. 18</a>, the destruction of the material Babylon."
+BD[":a)Z"]="To the choir director: Do not destroy. Of David. A Michtam, when he fled from Saul, in the cave"
+BD["i93\x97"]="<b>also</b><br> &emsp; Antichrist will be the coming seventh Caesar. But he is also the eighth. According to <a href=Rev.htm#v13_3>13:3</a>, Antichrist will be slain and resuscitated. In that resuscitation the spirit of Nero (the fifth Caesar), which will come up out of the abyss (when Satan is cast down to the earth&mdash;<a href=Rev.htm#v12_10>12:10</a>, <a href=Rev.htm#v12_13>13</a>), will animate and resuscitate the dead body of the seventh Caesar, Antichrist, thereby imitating the resurrection of Christ. This one, composed of the fifth and seventh Caesars, is the eighth. Hence, he is &ldquo;out of the seven,&rdquo; having the body of the seventh and the spirit of the fifth. Therefore, he will be all the more capable, all the more intelligent, and all the more powerful to charm, deceive, and allure people, capturing those who do not believe in Christ. It is no wonder that people will marvel at the sight of such an extraordinary person and will follow him (<a href=Rev.htm#v17_8>v. 8</a>; <a href=Rev.htm#v13_3>13:3</a>)."
+resume_js()

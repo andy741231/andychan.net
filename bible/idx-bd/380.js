@@ -1,0 +1,8 @@
+BD["i8)\x97"]="<b>bowls</b><br> &emsp; The bowls here signify that though the seven last plagues, the plagues of the seven bowls, are the ultimate fury of God, His fury is limited; otherwise, the entire earth with its inhabitants would be destroyed. For the fulfillment of His eternal purpose, God, in His judgment upon the earth, still places a limit on His ultimate fury."
+BD["i37\x9a"]="<b>reign</b><br> &emsp; Here the Lord&rsquo;s reigning forever and ever is the Lord&rsquo;s reigning in the millennial kingdom and in the new heaven and new earth for eternity (<a href=Rev.htm#v22_5>22:5</a>). This indicates that the seventh trumpet includes the new heaven and new earth with the New Jerusalem."
+BD["i52\x97"]="<b>saints</b><br> &emsp; See <a href=RevN.htm#n13_7x1>note 7<sup>1</sup></a>."
+BD["i7,\x97"]="<b>holy</b><br> &emsp; The Greek word refers to the sum of the qualities that fit and form the divine character. Hence, holy refers to God&rsquo;s nature, while righteous refers to God&rsquo;s principles."
+BD["i7+\x9a"]="<b>nations</b><br> &emsp; Some MSS read, ages."
+BD["i45\x97"]="<b>persecuted</b><br> &emsp; Satan, the angry dragon, will concentrate his hatred upon God&rsquo;s people."
+BD["i6/\x97"]="<b>Fear</b><br> &emsp; &ldquo;Fear God and give Him glory&rdquo; is a commandment given to those who dwell on the earth. It counters the false prophet&rsquo;s deceit that says that men should follow Antichrist and neutralizes the death threat against those who refuse to worship Antichrist during the great tribulation (<a href=Rev.htm#v13_14>13:14</a>-<a href=Rev.htm#v13_15>15</a>)."
+resume_js()

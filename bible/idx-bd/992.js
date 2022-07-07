@@ -1,0 +1,10 @@
+BD[">T4\x97"]="<b>sharpens</b><br> &emsp; Supplied from the Septuagint text."
+BD[".)))o1"]="<b>A.</b>&nbsp; Judah's boldness and victory"
+BD[":\x9f\xc8\x8c"]="The sum of Your word is truth, / And all Your righteous ordinances are forever."
+BD["K+:\x97"]="<b>them</b><br> &emsp; Lit., her."
+BD["?HO\x97"]="<b>one</b><br> &emsp; We, the chosen people of God, should all have one heart&mdash;to love God, to seek God, to live God, and to be constituted with God that we may be His expression&mdash;and one way&mdash;the Triune God Himself as the inner law of life with its divine capacity (<a href=Jer.htm#v31_33>31:33</a>-<a href=Jer.htm#v31_34>34</a>; <a href=Joh.htm#v14_6>John 14:6a</a>). This one heart and one way are the one accord (<a href=Act.htm#v1_14>Acts 1:14</a>; <a href=Act.htm#v2_46>2:46</a>; <a href=Act.htm#v4_24>4:24</a>; <a href=Rom.htm#v15_6>Rom. 15:6</a>). Divisions result from having a heart for something other than Christ and taking a way other than Christ."
+BD[":_7\x97"]="<b>Let</b><br> &emsp; Others read, Desolations be upon them."
+BD["i=C\x98"]="<b>book</b><br> &emsp; Lit., scroll."
+BD[":AE*oSupplantBR"]="<b>(1)</b>&nbsp; Supplanting the birthright"
+BD[">Q=\x97"]="<b>case</b><br> &emsp; According to vv. <a href=Isa.htm#v41_21>21</a>-<a href=Isa.htm#v41_29>29</a>, Christ as the Servant of Jehovah is for the exposing of the falsehood and vanity of the idols, the head of which is Satan. Everything except Christ is false, vain, and an idol (see <a href=1JoN.htm#n5_21x3P1>note 21<sup>3</sup>, par. 1</a>, in <a href=1Jo.htm#v5>1&nbsp;John 5</a>)."
+resume_js()

@@ -1,0 +1,12 @@
+BD["37H)o35"]="<b>EE.</b>&nbsp; The reign of Jotham over Judah"
+BD["i8=\x97"]="<b>talent</b><br> &emsp; A talent equals about one hundred pounds."
+BD["i=.\x97"]="<b>They</b><br> &emsp; They refers to these words in <a href=Rev.htm#v21_5>v. 5</a>."
+BD["i<1\x97"]="<b>beloved</b><br> &emsp; See <a href=RevN.htm#n20_9x1>note 9<sup>1</sup></a>."
+BD["35))o25"]="<b>U.</b>&nbsp; The reign of Jehoahaz over Israel"
+BD["X+;)o24"]="<b>5.</b>&nbsp; That the saints may be filled unto the fullness of God"
+BD["i;4\x97"]="<b>eyes</b><br> &emsp; Christ&rsquo;s flaming eyes are for the carrying out of His judgment."
+BD["i9:\x97"]="<b>woman</b><br> &emsp; While the harlot in <a href=Rev.htm#v17_16>v. 16</a> denotes the religious Babylon, signifying the Roman Church, the woman here denotes the material Babylon, signifying the city of Rome. This city is called &ldquo;the great city, which has a kingdom over the kings of the earth.&rdquo; When John wrote this book, Rome was the city that had a kingdom over the kings of the earth. What Antichrist and his ten kings will hate is the harlot, the Roman Church, not the woman, the city of Rome, where their administration will be based."
+BD["?Y/)o85"]="<b>E.</b>&nbsp; Upon Edom"
+BD["i>+\x97"]="<b>a</b><br> &emsp; Or, anything accursed."
+BD["i>*\x9a"]="<b>month</b><br> &emsp; Month indicates that in the new heaven and new earth the moon still will be there to divide the twelve months. The sun also will be there to separate day and night into periods of twelve hours each. While the number that represents the church is seven, signifying that God in His present dispensation is added to His creature, man, the number that represents the New Jerusalem is twelve, signifying that God in His eternal administration is mingled with His creature, man. In the New Jerusalem are the twelve foundations, inscribed with the names of the twelve apostles; the twelve gates, which are twelve pearls, inscribed with the names of the twelve tribes; and the twelve fruits of the tree of life. With regard to space, the city proper is twelve thousand stadia, one thousand times twelve, in each of its three dimensions, and its wall is one hundred forty-four cubits, twelve times twelve, in height. With regard to time, in the new heaven and new earth there are twelve months yearly, twelve hours daily, and twelve hours nightly."
+resume_js()

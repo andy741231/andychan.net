@@ -1,0 +1,12 @@
+BD["(*0\x8c"]="And Jehovah God planted a garden in Eden, in the east; and there He put the man whom He had formed."
+BD["(+)\x98"]="<b>woman</b><br> &emsp; The serpent contacted the woman, not the man, because the woman is the weaker vessel (<a href=1Pe.htm#v3_7>1&nbsp;Pet. 3:7</a>)."
+BD["(,*\x8c"]="And again she gave birth, to his brother Abel. And Abel was a tender of sheep, but Cain was a tiller of the ground."
+BD[")K))o73"]="<b>1.</b>&nbsp; A word concerning the Sabbath"
+BD["(QP)oEnthroned"]="<b>h.</b>&nbsp; Being enthroned with authority and receiving glory and gifts"
+BD["()3\x8c"]="And God said, Let the earth sprout grass, herbs yielding seed, and fruit trees bearing fruit according to their kind with their seed in them upon the earth; and it was so."
+BD[":k)Z"]="To the choir director: on the stringed instruments. A Psalm; a Song"
+BD["(*,\x98"]="<b>created</b><br> &emsp; See <a href=GenN.htm#n1_1x4P1>note 1<sup>4</sup>, par. 1</a>, in <a href=Gen.htm#v1>ch. 1</a>. First, God created the heavens and the earth (<a href=Gen.htm#v1_1>1:1</a>); then He made the earth and the heavens. In God&rsquo;s creation, it was first the heavens and then the earth (<a href=Gen.htm#v1_1>1:1</a>), whereas in God&rsquo;s restoration and further creation, it was first the earth and then the heavens."
+BD["))*\x8c"]="Reuben, Simeon, Levi, and Judah,"
+BD["(+-\x8c"]="For God knows that in the day you eat of it your eyes will be opened, and you will become like God, knowing good and evil."
+BD["a/))o11"]="<b>2.</b>&nbsp; A High Priest, perpetual, great, living, and able to save to the uttermost"
+resume_js()

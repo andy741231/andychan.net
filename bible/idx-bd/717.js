@@ -1,0 +1,11 @@
+BD[":\xb9<\x97"]="<b>destroy</b><br> &emsp; See <a href=PsaN.htm#n3_7x1>note 7<sup>1</sup></a> in <a href=Psa.htm#v3>Psa. 3</a>."
+BD["i2)\x9a"]="<b>sun</b><br> &emsp; Near the time of His coming to the people on the earth openly, Christ will be like the sun, not like the morning star, which appears before the darkest time, prior to dawn, to those who love Him and wait for Him (see <a href=Rev.htm#v2_28>2:28</a> and <a href=RevN.htm#n2_28x1>note 1</a>; <a href=2Pe.htm#v1_19>2&nbsp;Pet. 1:19</a> and <a href=2PeN.htm#n1_19x4>note 4</a>)."
+BD["i*B\x97"]="<b>overcomes</b><br> &emsp; To overcome here is to overcome Roman Catholicism."
+BD[":W)Z"]="To the choir director. Of the sons of Korah. A Psalm"
+BD["i>))o129"]="<b>a.</b>&nbsp; The river of water of life"
+BD["?F))o49"]="<b>1.</b>&nbsp; Jehovah to turn the captivity of Israel and Judah and to bring them back to the land after His chastisement of them"
+BD["?O3)o66"]="<b>3.</b>&nbsp; After the fall of Jerusalem&mdash;the release of Jeremiah from the court of the king's guard"
+BD["i00\x97"]="<b>sea</b><br> &emsp; Referring probably to the sea that adjoins the regions that commit evil against God. This part of the sea also will be damaged by God&rsquo;s judgment."
+BD["(R))oXpJacob"]="(<b>C.</b>&nbsp; The experience of Jacob&mdash;cont'd)"
+BD["i2*\x97"]="<b>little</b><br> &emsp; This little opened scroll is the scroll in <a href=Rev.htm#v5_1>5:1</a>, which only Christ is worthy to open and which He took out of the hand of God (<a href=Rev.htm#v5_5>5:5</a>, <a href=Rev.htm#v5_7>7</a>). Now it is in His hand. In <a href=Rev.htm#v5_1>5:1</a> it was sealed; here it is open. Being only a part of the scroll, it is called here &ldquo;a little&hellip; scroll.&rdquo; The main part of the scroll has already been revealed."
+resume_js()

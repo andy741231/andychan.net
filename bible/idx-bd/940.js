@@ -1,0 +1,12 @@
+BD[")AG)o50"]="<b>4.</b>&nbsp; The lampstand"
+BD["(+*\x8c"]="And the woman said to the serpent, Of the fruit of the trees of the garden we may eat;"
+BD["R,1)o25"]="<b>b.</b>&nbsp; The emptiness of religion's tradition and the fullness of life's living water"
+BD["(*-\x8c"]="And no plant of the field was yet in the earth, and no herb of the field had yet sprung up&mdash;for Jehovah God had not caused it to rain upon the earth, and there was no man to work the ground,"
+BD["A)7)o2"]="<b>C.</b>&nbsp; The high and awesome wheels"
+BD["Q.4)o25"]="<b>8.</b>&nbsp; Appointing twelve apostles"
+BD["()0\x8c"]="And God called the expanse Heaven. And there was evening and there was morning, a second day."
+BD["i=B\x97"]="<b>glory</b><br> &emsp; See <a href=RevN.htm#n21_24x4>note 24<sup>4</sup></a>."
+BD["U.5)o28"]="<b>B.</b>&nbsp; The use of the body"
+BD[",24)o26"]="<b>14.</b>&nbsp; Moses' charging the children of Israel concerning nine matters"
+BD[":j)Z"]="To the choir director. A Song; a Psalm"
+resume_js()

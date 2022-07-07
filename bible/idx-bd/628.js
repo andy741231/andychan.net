@@ -1,0 +1,12 @@
+BD["2)))o1"]="<b>A.</b>&nbsp; Being old and fading away"
+BD["(*2)o24"]="<b>b.</b>&nbsp; Putting man in the garden with its river"
+BD["+J))o122"]="<b>a.</b>&nbsp; The boundaries of the good land"
+BD["i>7\x97"]="<b>Outside</b><br> &emsp; Outside means outside the city, where the lake of fire, which holds all the sinners who have perished, will be located. (See <a href=RevN.htm#n21_8x2>note 8<sup>2</sup></a> in <a href=Rev.htm#v21>ch. 21</a>.)"
+BD["i>6\x9a"]="<b>right</b><br> &emsp; After being created, man was put before the tree of life (<a href=Gen.htm#v2_8>Gen. 2:8</a>-<a href=Gen.htm#v2_9>9</a>), indicating that he was privileged to partake of it. But because of the fall of man, the way to the tree of life was closed to man by God&rsquo;s glory, holiness, and righteousness (<a href=Gen.htm#v3_24>Gen. 3:24</a>). Through Christ&rsquo;s redemption, which fulfilled all the requirements of God&rsquo;s glory, holiness, and righteousness, the way to the tree of life was opened again to believers (<a href=Heb.htm#v10_19>Heb. 10:19</a>-<a href=Heb.htm#v10_20>20</a>). Hence, those who wash their robes in the redeeming blood of Christ have the right to enjoy the tree of life as their eternal portion in the holy city, the Paradise of God, in eternity (<a href=Rev.htm#v2_7>2:7</a>)."
+BD["i=:\x97"]="<b>jasper</b><br> &emsp; Jasper is a transformed precious stone (<a href=1Co.htm#v3_12>1&nbsp;Cor. 3:12</a>). God&rsquo;s appearance is like jasper (<a href=Rev.htm#v4_3>4:3</a> and <a href=RevN.htm#n4_3x1>note 1</a> there). The jasper wall signifies that the whole city, as the corporate expression of God in eternity, bears the appearance of God."
+BD["9)4)o3"]="<b>C.</b>&nbsp; Satan attacking Job, and Job suffering trials in the matter of his possessions and children"
+BD[")\@1)o44"]="<b>I.</b>&nbsp; The vision of God"
+BD[":b(\x8d"]="<b>Do</b><br> &emsp; See <a href=PsaN.htm#n57_TitlexS>note on the superscription</a> of <a href=Psa.htm#v57>Psa. 57</a>."
+BD["M--)o8"]="<b>G.</b>&nbsp; The vision of the ephah vessel"
+BD["24))o47"]="<b>2.</b>&nbsp; Rehoboam suffering the division of the kingdom and losing ten tribes"
+resume_js()

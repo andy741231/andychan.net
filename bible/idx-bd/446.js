@@ -1,0 +1,13 @@
+BD[":_)\x97"]="<b>Give</b><br> &emsp; In vv. <a href=Psa.htm#v55_1>1</a>-<a href=Psa.htm#v55_2>2</a>, <a href=Psa.htm#v55_4>4</a>-<a href=Psa.htm#v55_8>8</a>, <a href=Psa.htm#v55_16>16</a>-<a href=Psa.htm#v55_18>18a</a>, <a href=Psa.htm#v55_22>22</a>, and <a href=Psa.htm#v55_23>23b</a> David sought to experience God&rsquo;s salvation. At the same time, while under the oppression of his enemy, he asked God to deal with his enemy (vv. <a href=Psa.htm#v55_3>3</a>, <a href=Psa.htm#v55_9>9</a>-<a href=Psa.htm#v55_15>15</a>, <a href=Psa.htm#v55_18>18b</a>-<a href=Psa.htm#v55_21>21</a>, <a href=Psa.htm#v55_23>23a</a>). His request was based not on the principle of mercy and grace but on the principle of the tree of the knowledge of good and evil. See <a href=PsaN.htm#n3_7x1>note 7<sup>1</sup></a> in <a href=Psa.htm#v3>Psa. 3</a>."
+BD[":Y;\x97"]="<b>It</b><br> &emsp; Referring to his soul in <a href=Psa.htm#v49_18>v. 18</a>."
+BD["L))\x97"]="<b>Darius</b><br> &emsp; I.e., Darius Hystaspes, who ruled the Medo-Persian empire from 521-486 B.C. See <a href=Ezr.htm#v4_5>Ezra 4:5</a>, <a href=Ezr.htm#v4_24>24</a>; <a href=Ezr.htm#v5_3>5:3</a>&mdash;<a href=Ezr.htm#v6_12>6:12</a>."
+BD[">P2\x97"]="<b>rule</b><br> &emsp; The Lord Jehovah as Jesus Christ is the Ruler who comes as a mighty One to rule over us (<a href=Mat.htm#v2_6>Matt. 2:6</a>). He is also the Judge who will either reward us or punish us (<a href=Mat.htm#v25_14>Matt. 25:14</a>-<a href=Mat.htm#v25_30>30</a>; <a href=2Co.htm#v5_10>2&nbsp;Cor. 5:10</a>). This is His recompense, which is His judgment."
+BD["i;;\x98"]="<b>armies</b><br> &emsp; The armies include the two hundred million horsemen from the rising of the sun (<a href=Rev.htm#v9_14>9:14</a>-<a href=Rev.htm#v9_16>16</a>; <a href=Rev.htm#v16_12>16:12</a>)."
+BD["i>6\x8c"]="Blessed are those who wash their robes that they may have right to the tree of life and may enter by the gates into the city."
+BD["(1))o66"]="<b>6.</b>&nbsp; Fulfilling God's purpose to express and represent Him"
+BD["?O,\x97"]="<b>Arabah</b><br> &emsp; I.e., the plain that runs from the north of the Dead Sea south to the Gulf of Aqaba."
+BD["?I>\x97"]="<b>host</b><br> &emsp; Cf. <a href=GenN.htm#n22_17x1>note 17<sup>1</sup></a> in <a href=Gen.htm#v22>Gen. 22</a>."
+BD["i=9\x8c"]="And he measured its wall, a hundred and forty-four cubits, <I>according</I> <I>to</I> the measure of a man, that is, of an angel."
+BD[":\x9f\xba\x8c"]="I called upon You; save me, / And I will observe Your testimonies."
+BD[">R,\x97"]="<b>faint</b><br> &emsp; Or, burn dimly; from the same root as dimly burning in <a href=Isa.htm#v42_3>v. 3</a>. Christ does not extinguish the dimly burning flax (<a href=Isa.htm#v42_3>v. 3</a>), but He Himself never burns dimly."
+resume_js()

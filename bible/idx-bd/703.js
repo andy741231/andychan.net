@@ -1,0 +1,11 @@
+BD["^*))o3"]="<b>IV.</b>&nbsp; The inoculator&mdash;a teacher, a soldier, a contender, a farmer, and a workman"
+BD["R)))o0"]="<b>I.</b>&nbsp; The eternal Word incarnated coming to bring God into man"
+BD["5/3)o19"]="<b>a.</b>&nbsp; Jehovah's acceptance of his prayer and Jehovah's promise to establish his throne forever"
+BD["2/))o16"]="<b>b.</b>&nbsp; His palaces built in association with God's dwelling"
+BD["Z)+)o2"]="<b>B.</b>&nbsp; The apostle's thanksgiving"
+BD["h)4\x97"]="<b>hidden</b><br> &emsp; The Greek word means a rock. It &ldquo;may allude here to a sunken rock with the sea over it&rdquo; (Darby); hence, hidden reefs. The Greek word for spots in <a href=2Pe.htm#v2_13>2&nbsp;Pet. 2:13</a> is very similar to the word here for hidden reefs; hence, some translations render this word spots. Actually, these two words refer to two different things. The spots are defects on the surface of precious stones; the hidden reefs are at the bottom of the water. The early heretics were not only spots on the surface but also hidden reefs at the bottom, both of which were a damage to the believers in Christ."
+BD["h)3\x9a"]="<b>perished</b><br> &emsp; I.e., were destroyed (<a href=Jud.htm#v5>v. 5</a>). See <a href=2PeN.htm#n2_1x5P2>note 1<sup>5</sup>, point 1</a>, in <a href=2Pe.htm#v2>2&nbsp;Pet. 2</a>."
+BD["i)+\x97"]="<b>prophecy</b><br> &emsp; The revelation in this book is in the nature of prophecy. Most of the visions refer to things to come. Even the seven epistles to the seven churches in chs. <a href=Rev.htm#v2>2</a> and <a href=Rev.htm#v3>3</a>, in the sense of their being signs, are prophecies concerning the church on earth in the period until the Lord&rsquo;s coming back."
+BD["h)2\x9d"]="<b>corrupted</b><br> &emsp; See <a href=2PeN.htm#n2_1x5P4>note 1<sup>5</sup>, point 3</a>, in <a href=2Pe.htm#v2>2&nbsp;Pet. 2</a>."
+BD["V.))o22"]="<b>G.</b>&nbsp; Working together with God by an all-fitting life"
+resume_js()

@@ -1,0 +1,10 @@
+BD["O\@7)o115"]="<b>b.</b>&nbsp; At the consummation of the age"
+BD["S1H)o59"]="<b>15.</b>&nbsp; The spreading of Peter's ministry"
+BD["i0-\x97"]="<b>filled</b><br> &emsp; The implication here is that this is the answer to the prayers of the saints, especially the prayer in the fifth seal, mentioned in <a href=Rev.htm#v6_9>6:9</a>-<a href=Rev.htm#v6_11>11</a>, and the prayer mentioned in <a href=Luk.htm#v18_7>Luke 18:7</a>-<a href=Luk.htm#v18_8>8</a>. The prayer of the saints in this chapter must be for the judgment of the earth, which opposes God&rsquo;s economy. The answer to the saints&rsquo; prayers is the executing of God&rsquo;s judgment upon the earth through the succeeding seven trumpets."
+BD["i+<\x97"]="<b>door</b><br> &emsp; This door is not the door of the hearts of individuals but the door of the church. The Lord as the Head of the church is standing outside the degraded church, knocking at her door. The degraded recovered church must realize this!"
+BD["P8))o70"]="<b>B.</b>&nbsp; His resurrection"
+BD["i*?\x97"]="<b>kill</b><br> &emsp; This may refer to God&rsquo;s destroying of the Roman Catholic Church through Antichrist and his followers (<a href=Rev.htm#v17_16>17:16</a>-<a href=Rev.htm#v17_17>17</a>)."
+BD["i0+\x9d"]="<b>golden</b><br> &emsp; The golden altar is the incense altar (cf. <a href=Exo.htm#v30_1>Exo. 30:1</a>-<a href=Exo.htm#v30_9>9</a>)."
+BD["i.3\x97"]="<b>white</b><br> &emsp; The white robes here signify that their martyrdom was approved by God."
+BD[":V)Z"]="To the choir director. Of the sons of Korah. According to alamoth. A Song"
+resume_js()

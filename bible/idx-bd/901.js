@@ -1,0 +1,10 @@
+BD["i=\@\x9a"]="<b>glory</b><br> &emsp; Glory here refers to splendor (<a href=Mat.htm#v5_16>Matt. 5:16</a>; see <a href=HebN.htm#n2_9x2>note 9<sup>2</sup></a> in <a href=Heb.htm#v2>Heb. 2</a>)."
+BD["(*,\x8c"]="These are the generations of the heavens and of the earth when they were created. When Jehovah God made earth and heaven,"
+BD["()*\x9b"]="<b>Spirit</b><br> &emsp; Heb. ruach, variously translated spirit, wind, breath. This is the first mentioning of the Spirit in the Bible. The Spirit of God, as the Spirit of life (<a href=Rom.htm#v8_2>Rom. 8:2</a>), came to brood over the waters of death in order to generate life, especially man (<a href=Gen.htm#v1_26>v. 26</a>), for God&rsquo;s purpose. In spiritual experience, the Spirit&rsquo;s coming is the first requirement for generating life (<a href=Joh.htm#v6_63>John 6:63a</a>)."
+BD["U/2)o32"]="<b>C.</b>&nbsp; Concerning the married"
+BD["()/\x8c"]="And God made the expanse and separated the waters which were under the expanse from the waters which were above the expanse, and it was so."
+BD["K+7\x99"]="<b>see</b><br> &emsp; Others read, fear."
+BD[",=2)oBeautiful"]="<b>13.</b>&nbsp; Concerning marrying a beautiful woman among the captives"
+BD["i=A\x97"]="<b>no</b><br> &emsp; The wall of the city will separate the city from the nations, but the gates will keep the city continually open to them."
+BD["(+)\x8c"]="Now the serpent was more crafty than any other animal of the field that Jehovah God had made. And he said to the woman, Did God really say, You shall not eat of any tree of the garden?"
+resume_js()

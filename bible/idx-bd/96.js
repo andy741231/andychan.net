@@ -1,0 +1,13 @@
+BD["Q8;)o75"]="<b>27.</b>&nbsp; Warning the rich"
+BD["))+\x8c"]="Issachar, Zebulun, and Benjamin,"
+BD["Q6A)o68"]="<b>23.</b>&nbsp; Teaching how to follow the Man-Savior"
+BD["U6B)o85"]="<b>1.</b>&nbsp; Concerning each one"
+BD["(,+\x8c"]="And in the course of time Cain brought an offering to Jehovah from the fruit of the ground."
+BD[">R))o45"]="<b>2.</b>&nbsp; As a covenant for the people and a light for the nations"
+BD["a5<)o24"]="<b>V.</b>&nbsp; Conclusion"
+BD["M)0\x99"]="<b>myrtle</b><br> &emsp; These myrtle trees signify the humiliated yet precious people of Israel in their captivity. The redeeming Christ, as a man and as the Angel of Jehovah, the embodiment of the Triune God, was sent by God to be with the humiliated people of Israel in their captivity. Christ&rsquo;s standing among the myrtle trees that were in the bottoms means that He remained strongly among the captured Israel in the lowest part of the valley in their humiliation. As the One on the red horse, Christ, the redeeming One, was Israel&rsquo;s patron, ready to do anything for them swiftly in order to care for them in their captivity. Christ maintained Israel in their captivity that He might eventually be born into humanity through Israel to accomplish God&rsquo;s eternal economy."
+BD["(+.\x8c"]="And when the woman saw that the tree was good for food and that it was a delight to the eyes and that the tree was to be desired to make oneself wise, she took of its fruit and ate; and she also gave some to her husband with her, and he ate."
+BD[",>-)oMixtures"]="<b>16.</b>&nbsp; Concerning mixtures of any kind"
+BD["(*1\x8c"]="And out of the ground Jehovah God caused to grow every tree that is pleasant to the sight and good for food, as well as the tree of life in the middle of the garden and the tree of the knowledge of good and evil."
+BD["()4\x8c"]="And the earth brought forth grass, herbs yielding seed according to their kind, and trees bearing fruit with their seed in them according to their kind; and God saw that it was good."
+resume_js()

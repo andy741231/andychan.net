@@ -1,0 +1,12 @@
+BD["i+)\x97"]="<b>Sardis</b><br> &emsp; The Greek word means the remains, the remainder, or the restoration. As a sign, the church in Sardis prefigures the Protestant church, from the time of the Reformation to the second coming of Christ. The Reformation was God&rsquo;s reaction to the apostate Roman Catholic Church, which is signified by the degraded church in Thyatira. It was accomplished by a minority of the believers, the remainder. Hence, it was a restoration by the remainder."
+BD[")J))o70"]="<b>Q.</b>&nbsp; Moses' stay with God"
+BD["i*,\x97"]="<b>first</b><br> &emsp; The Greek word for first is the same as that translated best in <a href=Luk.htm#v15_22>Luke 15:22</a>. Our first love toward the Lord must be the best love for Him."
+BD["h)8\x97"]="<b>persons</b><br> &emsp; Lit., faces."
+BD["i)/\x97"]="<b>comes</b><br> &emsp; In this book, Christ&rsquo;s coming back is revealed in two aspects. In one aspect Christ will come secretly as a thief (<a href=Rev.htm#v3_3>3:3</a>; <a href=Rev.htm#v16_15>16:15</a>), and in another aspect He will come openly on the cloud (<a href=Rev.htm#v1_7>v. 7</a>; <a href=Rev.htm#v14_14>14:14</a>). This corresponds with <a href=Mat.htm#v24_43>Matt. 24:43</a>, <a href=Mat.htm#v24_30>30</a>. The day and hour of His coming in the first aspect are unknown (<a href=Mat.htm#v24_36>Matt. 24:36</a>), whereas the day of His coming in the second aspect is clearly revealed&mdash;it will be at the last trumpet (the seventh trumpet), at the end of the great tribulation (<a href=1Th.htm#v4_16>1&nbsp;Thes. 4:16</a>; <a href=1Co.htm#v15_52>1&nbsp;Cor. 15:52</a>; <a href=2Th.htm#v2_1>2&nbsp;Thes. 2:1</a>-<a href=2Th.htm#v2_3>3</a>)."
+BD["OC[)o144"]="<b>c.</b>&nbsp; The effect of His crucifixion"
+BD["B*G)o9"]="<b>(2)</b>&nbsp; The contents of Nebuchadnezzar's dream&mdash;a great human image and its destiny"
+BD[":;7*oAnySin"]="<b>d.</b>&nbsp; The ordinance concerning any iniquity or any sin"
+BD["->))o56"]="<b>J.</b>&nbsp; The return of the tribes of Reuben, Gad, and the half-tribe of Manasseh to their land east of the Jordan"
+BD["E*,)o9"]="<b>A.</b>&nbsp; On Judah"
+BD[":\xb52\x97"]="<b>fall</b><br> &emsp; See <a href=PsaN.htm#n3_7x1>note 7<sup>1</sup></a> in <a href=Psa.htm#v3>Psa. 3</a>."
+resume_js()
