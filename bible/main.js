@@ -178,3 +178,7 @@ function update_quick_links()
 if(init_js_stuff)
   onload_add(update_quick_links)
 ////////////////////////////////////////////////////////////////////
+
+window.onload = () => {
+  document.body.setAttribute("class", "container"); 
+}

@@ -360,7 +360,7 @@ function hotkeys_enable(){document.onkeypress=hotkeys}
 </script>
 </head>
   <body style=margin:0px>
-    <div class="container">
+
       <span style=display:none id=exec></span>
       <form name=data style=display:none>
       <input type=hidden name=xpmenu_type>
@@ -372,7 +372,16 @@ function hotkeys_enable(){document.onkeypress=hotkeys}
       <form name=f style=display:inline>
       <table cellpadding=0 cellspacing=0 width=100% height=100%>
       <!-- ROW 1: TOP PANEL -->
-      <tr id=topbar height=27 style=display:none><td id=xpmenu colspan=7></td></tr>
+      <!-- <tr id=topbar height=27 style=display:none><td id=xpmenu colspan=7></td></tr> -->
+      <nav>
+        <div id="topbar">
+          <div class="graybox">
+            <div id="xpmenu" class="container">
+            </div>
+          </div>
+        </div>
+        </div>
+      </nav>
       <!-- COMPLEX ROW OF MANY STUFF -->
       <tr>
         <td>
@@ -473,6 +482,5 @@ function hotkeys_enable(){document.onkeypress=hotkeys}
       </tr>
       </table>
       </form>
-    </div>
   </body>
 </html>

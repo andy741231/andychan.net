@@ -1,4 +1,6 @@
+@import "style/bootstrap.min.css";
 @import "style/style.css";
+
 
 /* General tag list -- Don't use abbr,sub,sup.  */
 b,i,p,q,s,
@@ -7,9 +9,9 @@ big,del,dfn,kbd,ins,pre,small,var,
 cite,code,samp
 {display:inline;font-family:serif;font-size:100%;font-style:normal;quotes:none;margin:0px;padding:0px;text-decoration:none;vertical-align:baseline;text-align:justify;}
 /* General stuff.  */
-body{font-family:serif;text-align:justify;color:#000000;}
+body{font-family:serif;text-align:justify;color:lightgreen; background-color: darkgreen;}
 a{text-decoration:none;}
-a,a:hover,a:visited{text-decoration:none;color:#0000ff;}
+a,a:hover,a:visited{text-decoration:none;color:lightskyblue;}
 a:hover{text-decoration:underline;}
 /* No underline.  */
 u{text-decoration:none}
