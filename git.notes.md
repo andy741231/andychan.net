@@ -12,7 +12,7 @@
     git branch -M main
     git push -u origin main
     
-    git push --all
+    git push --all 
 
 ### Tell Git who you are
 
