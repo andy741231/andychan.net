@@ -15,7 +15,8 @@
     git push --all
 
 ### Delete Remote
-    git remote rm <remote name>
+
+    git remote rm <remote name> 
 
 ### Tell Git who you are
 
