@@ -12,7 +12,10 @@
     git branch -M main
     git push -u origin main
     
-    git push --all 
+    git push --all
+
+### Delete Remote
+    git remote rm <remote name>
 
 ### Tell Git who you are
 
