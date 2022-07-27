@@ -14,6 +14,10 @@
     
     git push --all
 
+### Clone all branches
+
+    git clone -- bare <repository> git
+
 ### Delete Remote
 
     git remote rm <remote name> 
