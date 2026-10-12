@@ -522,19 +522,40 @@ a:hover {
     color: var(--ink-soft);
 }
 
-/* three supporting cases */
-.case-grid {
+/* three supporting cases: context left, story right */
+.case-list {
+    display: block;
+}
+
+.case-row {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0 clamp(1.75rem, 4vw, 3.5rem);
+    grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: start;
 }
 
-.case-grid .case:nth-child(2) {
-    margin-top: clamp(1.5rem, 4vw, 3.5rem);
+.case-heading h3 {
+    font-size: clamp(1.5rem, 2.5vw, 2rem);
 }
 
-.case-grid .case:nth-child(3) {
-    margin-top: clamp(3rem, 8vw, 7rem);
+.source-link {
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+/* >=44px tap target without loosening surrounding spacing */
+.source-link a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    margin-block: -0.65rem;
+    font-weight: 500;
+}
+
+.case-body {
+    max-width: var(--measure);
+    border-left: 1px solid var(--line);
+    padding-left: clamp(1.5rem, 3vw, 2.5rem);
 }
 
 /* tags */
@@ -826,6 +847,19 @@ html.js [data-reveal]:focus-within {
 
 /* ------------------------------------------------------------ responsive */
 
+@media (max-width: 48em) {
+    .case-row {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 1.25rem;
+    }
+
+    .case-body {
+        border-left: 0;
+        padding-left: 0;
+        max-width: none;
+    }
+}
+
 @media (max-width: 64em) {
     .hero-grid,
     .case-feature,
@@ -837,15 +871,6 @@ html.js [data-reveal]:focus-within {
     .hero-portrait {
         justify-self: start;
         width: min(220px, 70%);
-    }
-
-    .case-grid {
-        grid-template-columns: minmax(0, 1fr);
-    }
-
-    .case-grid .case:nth-child(2),
-    .case-grid .case:nth-child(3) {
-        margin-top: 0;
     }
 
     .learning .tags {
