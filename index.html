@@ -2,197 +2,355 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>Andy Chan - Full Stack Developer :)</title>
-        <!-- Favicon-->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Andy Chan is a full-stack developer and data specialist at the University of Houston, building useful applications and usable data for research programs." />
+        <meta name="author" content="Andy Chan" />
+        <title>Andy Chan — Full-Stack Developer &amp; Data Specialist</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
-        <!-- Simple line icons-->
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" rel="stylesheet" />
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="css/portfolio.css" />
     </head>
-    <body id="page-top">
-        <!-- Navigation-->
-        <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
-        <nav id="sidebar-wrapper">
-            <ul class="sidebar-nav">
-                <li class="sidebar-brand"><a href="#page-top">andychan.net</a></li>
-                <li class="sidebar-nav-item"><a href="#page-top">Home</a></li>
-                <li class="sidebar-nav-item"><a href="#about">About</a></li>
-                <li class="sidebar-nav-item"><a href="#services">Services</a></li>
-                <li class="sidebar-nav-item"><a href="#portfoliooo">Portfolio</a></li>
-                <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-        <!-- Header-->
-        <header class="masthead d-flex align-items-center">
-            <div class="container px-4 px-lg-5 text-center">
-                <h1 class="mb-1">Web Portfolio</h1>
-<!--                 <h3 class="mb-5"><em>A Free free Bootstrap Theme by Start Bootstrap</em></h3> -->
-                <a class="btn btn-primary btn-xl" href="#about">Start Browsing!</a>
-            </div>
+    <body id="top">
+        <a class="skip-link" href="#main">Skip to main content</a>
+
+        <header class="site-header">
+            <nav class="site-nav" aria-label="Primary">
+                <a class="site-name" href="#top">Andy Chan</a>
+                <ul class="nav-links">
+                    <li><a href="#work">Work</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
         </header>
-        <!-- About-->
-        <section class="content-section bg-light" id="about">
-            <div class="container px-4 px-lg-5 text-center">
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-10 row">
-                        <div class="pb-5"><h2>About Andy</h2></div>
-                        <div class="col-md-6">
-                            <img src="assets\img\andy.jpg" class="rounded-circle w-50 p-1 ms-5">
+
+        <main id="main">
+            <!-- Hero -->
+            <section class="hero" aria-labelledby="hero-heading">
+                <div class="hero-grid">
+                    <div class="hero-copy">
+                        <p class="eyebrow rise">Full-stack development + data</p>
+                        <h1 id="hero-heading" class="rise">Useful applications.<br />Usable data.</h1>
+                        <p class="lede rise">
+                            I&rsquo;m Andy Chan, a developer at the University of Houston&rsquo;s Population Health
+                            department. I build the applications research teams actually want to use &mdash; and I
+                            bring their scattered data together so it can finally do its job.
+                        </p>
+                        <div class="hero-cta rise">
+                            <a class="btn btn-primary" href="#work">See my work</a>
+                            <a class="btn btn-ghost" href="mailto:andy741231@hotmail.com">Email me</a>
                         </div>
-                        <div class="col-md-6 p-2" style="text-align: left;">
-                            <p class="me-5">Welcome to my online portfolio! I'm a full-stack data specialist at the University of Houston's Population Health department, where I build applications and prepare data so it is usable for researchers and administrators across NIH-funded programs, including AIM-AHEAD, RCMI, and CTPH.</p>
-                            <p class="me-5">My approach is: make it user friendly, make it simple. I am good at meeting people where they are — if a team is attached to a legacy tool, I learn the tool and improve the workflow within what they already use. If they need a customized solution, I build it from the ground up. Much of my work is migrating and unifying data from older or redundant systems into applications people actually want to use, like the custom ticket system I built to replace Crow Canyon NITRO, whose data now feeds our service metrics reports to NIH.</p>
-                            <p class="me-5">I also collaborate with Baylor College of Medicine developers on the CTPH Research Catalog, a shared platform bringing together researcher publications, grants, and biosketch data through staged data pipelines, PubMed data feeds, and schema mapping. Most recently, I built a Power BI report analyzing NIH funding to Houston-area institutions using public NIH RePORTER data.</p>
-                            <p class="me-5">Explore my site to learn more about my projects — from SQL databases and data pipelines to full applications in PHP/Laravel and React.</p>                        </div>
-                        <!-- <div>
-                        <a class="btn btn-dark m-5 btn-xl" href="#services">What We Offer</a>
-                        </div> -->
                     </div>
+                    <figure class="hero-portrait rise">
+                        <img src="assets/img/andy.jpg" width="288" height="288" alt="Portrait of Andy Chan" decoding="async" />
+                        <figcaption>Houston, TX &middot; University of Houston</figcaption>
+                    </figure>
                 </div>
-            </div>
-        </section>
-        <!-- Services-->
-        <section class="content-section bg-primary text-white text-center py-5" id="services">
-            <div class="container px-4 px-lg-5">
-               <!--  <div class="content-section-heading">
-                    <h3 class="text-secondary mb-0">Services</h3>
-                    <h2 class="mb-5">What We Offer</h2>
+                <div class="program-strip" aria-label="Programs I support">
+                    <p class="program-label">Programs I support</p>
+                    <ul class="program-list">
+                        <li>AIM&#8209;AHEAD</li>
+                        <li>RCMI</li>
+                        <li>CTPH</li>
+                    </ul>
                 </div>
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
-                        <h4><strong>Responsive</strong></h4>
-                        <p class="text-faded mb-0">Looks great on any screen size!</p>
+            </section>
+
+            <!-- Work -->
+            <section class="section work" id="work" aria-labelledby="work-heading">
+                <span id="portfolio" class="anchor-alias" aria-hidden="true"></span>
+                <header class="section-head" data-reveal>
+                    <p class="eyebrow"><span class="section-no">01</span> Selected work</p>
+                    <h2 id="work-heading">Projects with a job to do</h2>
+                    <p class="section-intro">
+                        A few examples of how I build applications, connect data, and simplify everyday
+                        workflows for research teams.
+                    </p>
+                </header>
+
+                <!-- Featured case study -->
+                <article class="case case-feature" data-reveal>
+                    <div class="case-copy">
+                        <p class="case-meta">Internal application &middot; University of Houston</p>
+                        <h3>Service Ticket System</h3>
+                        <p>
+                            <strong class="fact-label">The problem.</strong> The research cores I support ran
+                            service requests through Crow Canyon NITRO &mdash; capable software, but difficult
+                            for staff to use day to day.
+                        </p>
+                        <p>
+                            <strong class="fact-label">What I built.</strong> A replacement ticket system with a
+                            familiar online&#8209;shopping style interface, so staff can submit a request and
+                            follow it from start to finish in one place.
+                        </p>
+                        <p>
+                            <strong class="fact-label">The result.</strong> Requests, turnaround times, and
+                            service&#8209;quality data now live in one place &mdash; and feed the service&#8209;metrics
+                            reporting that goes into our NIH grant renewals.
+                        </p>
+                        <ul class="tags" aria-label="Tags">
+                            <li>Full-stack build</li>
+                            <li>Service requests</li>
+                            <li>Reporting data</li>
+                        </ul>
+                        <details class="case-more">
+                            <summary>More about the work</summary>
+                            <p>
+                                The system is designed around how core staff already think: browse services like
+                                a catalog, add what you need to a request, and track its status the way you&rsquo;d
+                                track a package. The system captures service content, turnaround time, and
+                                quality for service&#8209;metrics reports submitted to NIH.
+                            </p>
+                        </details>
                     </div>
-                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
-                        <h4><strong>Redesigned</strong></h4>
-                        <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
+                    <figure class="workflow-fig">
+                        <svg viewBox="0 0 560 200" role="img" aria-labelledby="wf-title wf-desc" focusable="false">
+                            <title id="wf-title">Workflow illustration</title>
+                            <desc id="wf-desc">A request moves through four stages: request, track, complete, and report.</desc>
+                            <line class="wf-line" x1="70" y1="84" x2="490" y2="84" />
+                            <g class="wf-node">
+                                <circle cx="70" cy="84" r="30" />
+                                <path d="M58 84 h18 m-6 -6 l6 6 l-6 6" class="wf-glyph" />
+                                <text x="70" y="140">Request</text>
+                            </g>
+                            <g class="wf-node">
+                                <circle cx="210" cy="84" r="30" />
+                                <circle cx="210" cy="84" r="18" class="wf-ring" />
+                                <circle cx="210" cy="84" r="3" class="wf-dot" />
+                                <text x="210" y="140">Track</text>
+                            </g>
+                            <g class="wf-node">
+                                <circle cx="350" cy="84" r="30" />
+                                <path d="M339 85 l8 8 l14 -16" class="wf-glyph" />
+                                <text x="350" y="140">Complete</text>
+                            </g>
+                            <g class="wf-node">
+                                <circle cx="490" cy="84" r="30" />
+                                <path d="M480 96 v-8 m10 8 v-16 m10 16 v-12" class="wf-glyph" />
+                                <text x="490" y="140">Report</text>
+                            </g>
+                        </svg>
+                        <figcaption>Workflow illustration &middot; request to report</figcaption>
+                    </figure>
+                </article>
+
+                <!-- Supporting case studies -->
+                <div class="case-grid">
+                    <article class="case" data-reveal>
+                        <p class="case-meta">
+                            Collaborative project &middot;
+                            <a href="https://github.com/ictr/BCM_UH_Research_Catalog" target="_blank" rel="noopener noreferrer">Source repository<span class="visually-hidden"> (opens in new tab)</span>&nbsp;&#8599;</a>
+                        </p>
+                        <h3>CTPH Research Catalog</h3>
+                        <p>
+                            <strong class="fact-label">The problem.</strong> Researcher publications, grants,
+                            and biosketches need to be brought together across Baylor College of Medicine and
+                            the University of Houston.
+                        </p>
+                        <p>
+                            <strong class="fact-label">What I built.</strong> Working with developers at Baylor
+                            College of Medicine, I contributed staged import pipelines, PubMed data feeds,
+                            schema mapping, and role&#8209;based access control.
+                        </p>
+                        <p>
+                            <strong class="fact-label">The result.</strong> A shared catalog that brings
+                            researcher information together across both institutions.
+                        </p>
+                        <ul class="tags" aria-label="Tags">
+                            <li>Data pipelines</li>
+                            <li>PubMed feeds</li>
+                            <li>Collaborative</li>
+                        </ul>
+                        <details class="case-more">
+                            <summary>More about the work</summary>
+                            <p>
+                                My work includes importing and exporting researcher data, mapping source
+                                fields to the catalog schema, and contributing role&#8209;based access control.
+                                This is a shared codebase, with contributions from both institutions.
+                            </p>
+                        </details>
+                    </article>
+
+                    <article class="case" data-reveal>
+                        <p class="case-meta">Internal application &middot; RCMI</p>
+                        <h3>Pilot Central</h3>
+                        <p>
+                            <strong class="fact-label">The problem.</strong> Pilot grant programs need to
+                            manage proposal submissions, reviewer assignments, and review feedback.
+                        </p>
+                        <p>
+                            <strong class="fact-label">What I built.</strong> An internal hub where proposals are
+                            submitted, reviewers are assigned, and scores and comments come back to one place.
+                        </p>
+                        <p>
+                            <strong class="fact-label">The result.</strong> Submissions, reviewer assignments,
+                            scores, and comments are managed in one internal platform.
+                        </p>
+                        <ul class="tags" aria-label="Tags">
+                            <li>Web application</li>
+                            <li>Peer review</li>
+                            <li>Workflow</li>
+                        </ul>
+                        <details class="case-more">
+                            <summary>More about the work</summary>
+                            <p>
+                                I built Pilot Central to support the RCMI pilot proposal workflow, from
+                                researcher submissions through peer review and scoring.
+                            </p>
+                        </details>
+                    </article>
+
+                    <article class="case" data-reveal>
+                        <p class="case-meta">Internal application &middot; Airtable</p>
+                        <h3>Investigator Reporting</h3>
+                        <p>
+                            <strong class="fact-label">The problem.</strong> Investigator reporting requires
+                            keeping submissions organized and reminding people to complete their reports.
+                        </p>
+                        <p>
+                            <strong class="fact-label">What I built.</strong> An organized Airtable base with
+                            automations &mdash; submission tracking, reminder emails to investigators, and
+                            analytics over the collected data.
+                        </p>
+                        <p>
+                            <strong class="fact-label">The result.</strong> Report submissions are organized
+                            in Airtable, with automated reminders and analytics based on the collected data.
+                        </p>
+                        <ul class="tags" aria-label="Tags">
+                            <li>Airtable</li>
+                            <li>Automation</li>
+                            <li>Analytics</li>
+                        </ul>
+                        <details class="case-more">
+                            <summary>More about the work</summary>
+                            <p>
+                                This is an example of improving a workflow within an existing platform rather
+                                than building a new application. I use Airtable to manage submissions and
+                                automate reminders.
+                            </p>
+                        </details>
+                    </article>
+                </div>
+
+                <!-- Self-directed learning project -->
+                <aside class="learning" data-reveal aria-labelledby="learning-heading">
+                    <div>
+                        <p class="eyebrow eyebrow-olive">Learning through building</p>
+                        <h3 id="learning-heading">NIH funding, explored in Power BI</h3>
                     </div>
-                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
-                        <h4><strong>Favorited</strong></h4>
-                        <p class="text-faded mb-0">
-                            Millions of users
-                            <i class="fas fa-heart"></i>
-                            Start Bootstrap!
+                    <p>
+                        A self&#8209;directed project I built on my own time to learn Power BI: a report over
+                        public NIH RePORTER data covering awards to Houston&#8209;area institutions for
+                        FY2021&ndash;2025, broken down by year, institution, and NIH institute.
+                    </p>
+                    <ul class="tags" aria-label="Tags">
+                        <li>Self-directed</li>
+                        <li>Power BI</li>
+                        <li>Public data</li>
+                    </ul>
+                </aside>
+            </section>
+
+            <!-- About -->
+            <section class="section about" id="about" aria-labelledby="about-heading">
+                <header class="section-head" data-reveal>
+                    <p class="eyebrow"><span class="section-no">02</span> About</p>
+                    <h2 id="about-heading">Make it user&#8209;friendly.<br />Make it simple.</h2>
+                </header>
+                <div class="about-grid">
+                    <div class="about-bio" data-reveal>
+                        <p>
+                            That&rsquo;s been my approach since my web&#8209;developer days, and it still is at
+                            the University of Houston. Today I&rsquo;m a full&#8209;stack data specialist at
+                            UH Population Health, supporting AIM&#8209;AHEAD, RCMI, and CTPH. I&rsquo;m good at
+                            meeting people where they are: if a team is attached to a legacy tool, I learn the
+                            tool and improve the workflow inside what they already use. If they need something
+                            custom, I build it from the ground up.
+                        </p>
+                        <p>
+                            The work is really about understanding what people want and giving them what they
+                            need. A lot of my job is migrating and unifying data out of older or redundant
+                            systems and into applications people actually want to open &mdash; like the ticket
+                            system that replaced Crow Canyon NITRO, whose data now feeds our service&#8209;metrics
+                            reporting to NIH.
+                        </p>
+                        <p>
+                            I also collaborate with Baylor College of Medicine developers on the CTPH Research
+                            Catalog. To keep learning, I recently built a self&#8209;directed Power BI report
+                            using public NIH RePORTER data.
+                        </p>
+                        <p class="edu-note">
+                            <strong>Education.</strong> M.Ed., Curriculum and Instruction &mdash;
+                            University of Houston, 2019.
                         </p>
                     </div>
-                    <div class="col-lg-3 col-md-6">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
-                        <h4><strong>Question</strong></h4>
-                        <p class="text-faded mb-0">I mustache you a question...</p>
-                    </div> -->
-                </div>
-            </div>
-        </section>
-        <!-- Callout-->
-        <!-- <section class="callout">
-            <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mx-auto mb-5">
-                    Welcome to
-                    <em>your</em>
-                    next website!
-                </h2>
-                <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/theme/stylish-portfolio/">Download Now!</a>
-            </div>
-        </section> -->
-        <!-- Portfolio-->
-        <section class="content-section" id="portfolio">
-            <div class="container px-4 px-lg-5">
-                <div class="content-section-heading text-center">
-                    <h3 class="text-secondary mb-0">Portfolio</h3>
-                    <h2 class="mb-5">Recent Projects</h2>
-                </div>
-                <div class="row gx-0">
-                    <div class="col-lg-6">
-                        <a class="portfolio-item" href="https://www.uh.edu/population-health">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <div class="h2">PHP, JAVASCRIPT & BOOTSTRAP</div>
-                                    <p class="mb-0">A brand new home page desgined from the ground up</p>
+                    <div class="about-side" data-reveal>
+                        <section class="skills" aria-labelledby="skills-heading">
+                            <h3 id="skills-heading">What I work with</h3>
+                            <dl class="skill-groups">
+                                <div class="skill-group">
+                                    <dt>Build</dt>
+                                    <dd>PHP/Laravel &middot; React &middot; Vue &middot; JavaScript/TypeScript &middot; Node &middot; REST APIs</dd>
                                 </div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio-1.jpg" alt="..." />
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a class="portfolio-item" href="http://uhadvancement.com/app/digital-library/stories/">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <div class="h2">PHP & JAVASCRIPT</div>
-                                    <p class="mb-0">A digital library that fetches news and stories from different platforms. The application implemented "tags" for each story</p>
+                                <div class="skill-group">
+                                    <dt>Connect</dt>
+                                    <dd>SQL &middot; PostgreSQL &middot; MySQL &middot; REDCap &middot; Qualtrics</dd>
                                 </div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio-2.jpg" alt="..." />
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a class="portfolio-item" href="http://uhadvancement.com/app/oral-history/">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <div class="h2">PHP & JAVASCRIPT</div>
-                                    <p class="mb-0">This oral history project takes the audience on the journey to learn the stories of UH Alumni</p>
+                                <div class="skill-group">
+                                    <dt>Automate</dt>
+                                    <dd>Airtable + workflow automation &middot; Power BI (self&#8209;directed)</dd>
                                 </div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio-3.jpg" alt="..." />
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a class="portfolio-item" href="https://andy741231.github.io/movie-cards/">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <div class="h2">React JS</div>
-                                    <p class="mb-0">Built using create-react-app, this simple site allows you to search all movies titles</p>
-                                </div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio-4.jpg" alt="..." />
-                        </a>
+                            </dl>
+                        </section>
+                        <section class="earlier" aria-labelledby="earlier-heading">
+                            <h3 id="earlier-heading">Earlier web work</h3>
+                            <ul class="earlier-list">
+                                <li>
+                                    <a href="https://www.uh.edu/population-health" target="_blank" rel="noopener noreferrer">UH Population Health<span class="visually-hidden"> (opens in new tab)</span></a>
+                                    <span>PHP, JavaScript &amp; Bootstrap</span>
+                                </li>
+                                <li>
+                                    <a href="http://uhadvancement.com/app/digital-library/stories/" target="_blank" rel="noopener noreferrer">Digital library<span class="visually-hidden"> (opens in new tab)</span></a>
+                                    <span>PHP &amp; JavaScript</span>
+                                </li>
+                                <li>
+                                    <a href="http://uhadvancement.com/app/oral-history/" target="_blank" rel="noopener noreferrer">Oral history<span class="visually-hidden"> (opens in new tab)</span></a>
+                                    <span>PHP &amp; JavaScript</span>
+                                </li>
+                                <li>
+                                    <a href="https://andy741231.github.io/movie-cards/" target="_blank" rel="noopener noreferrer">Movie search<span class="visually-hidden"> (opens in new tab)</span></a>
+                                    <span>React</span>
+                                </li>
+                            </ul>
+                            <p class="earlier-note">Previous projects &mdash; listed for the record.</p>
+                        </section>
                     </div>
                 </div>
-            </div>
-        </section>
-        <!-- Call to Action-->
-        <section class="content-section bg-primary text-white py-5">
-           <!--  <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mb-4">The buttons below are impossible to resist...</h2>
-                <a class="btn btn-xl btn-light me-4" href="#!">Click Me!</a>
-                <a class="btn btn-xl btn-dark" href="#!">Look at Me!</a>
-            </div> -->
-        </section>
-        <!-- Map-->
-      <!--   <div class="map" id="contact">
-            <iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-            <br />
-            <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a></small>
-        </div> -->
-        <!-- Footer-->
-        <footer class="footer text-center bg-secondary">
-            <div class="container px-4 px-lg-5">
-                <ul class="list-inline mb-5">
-                    <li class="list-inline-item">
-                        <a class="social-link rounded-circle text-white mr-3" href="mailto:andy741231@hotmail.com"><i class="icon-envelope"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="social-link rounded-circle text-white" href="https://github.com/andy741231"><i class="icon-social-github"></i></a>
-                    </li>
-                </ul>
-                <p class="text-muted small mb-0">Copyright &copy; andychan.net 2022</p>
-            </div>
+            </section>
+
+            <!-- Contact -->
+            <section class="section contact" id="contact" aria-labelledby="contact-heading">
+                <div data-reveal>
+                    <p class="eyebrow"><span class="section-no">03</span> Contact</p>
+                    <h2 id="contact-heading">Have a workflow that could be simpler?</h2>
+                    <p class="contact-lede">
+                        That&rsquo;s usually where my favorite projects start. Send me a note and tell me
+                        what&rsquo;s harder than it should be.
+                    </p>
+                    <div class="contact-links">
+                        <a class="btn btn-primary" href="mailto:andy741231@hotmail.com">andy741231@hotmail.com</a>
+                        <a class="btn btn-ghost" href="https://github.com/andy741231" target="_blank" rel="noopener noreferrer">github.com/andy741231<span class="visually-hidden"> (opens in new tab)</span></a>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <p>&copy; Andy Chan &middot; Houston, TX &middot; Built with plain HTML, CSS, and a little JavaScript.</p>
         </footer>
-        <!-- Scroll to Top Button-->
-        <a class="scroll-to-top rounded" href="#page-top"><i class="fas fa-angle-up"></i></a>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
+
         <script src="js/scripts.js"></script>
     </body>
 </html>
